@@ -6,8 +6,8 @@ import (
 
 	//"os"
 
-	"github.com/Aziz145/testaziz/model"
-	"github.com/Aziz145/testaziz/util"
+	"github.com/Aziz145/testaziz/tree/master/model"
+	"github.com/Aziz145/testaziz/tree/master/util"
 	"golang.org/x/crypto/bcrypt"
 
 	"crypto/rand"

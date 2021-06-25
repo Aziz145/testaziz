@@ -1,9 +1,9 @@
 package server
 
 import (
-	"github.com/Aziz145/testaziz/controller"
-	"github.com/Aziz145/testaziz/infra"
-	"github.com/Aziz145/testaziz/util"
+	"github.com/Aziz145/testaziz/tree/master/controller"
+	"github.com/Aziz145/testaziz/tree/master/infra"
+	"github.com/Aziz145/testaziz/tree/master/util"
 
 	"github.com/gin-gonic/gin"
 

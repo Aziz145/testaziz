@@ -2,7 +2,7 @@ package server
 
 import (
 
-	"github.com/Aziz145/testaziz/controller"
+	"github.com/Aziz145/testaziz/tree/master/controller"
 
 
 	"github.com/gin-gonic/gin"

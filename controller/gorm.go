@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/Aziz145/testaziz/infra"
+	"github.com/Aziz145/testaziz/tree/master/infra"
 	"gorm.io/gorm"
 )
 

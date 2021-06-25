@@ -1,7 +1,7 @@
 package infra
 
 import (
-	"github.com/Aziz145/testaziz/model"
+	"github.com/Aziz145/testaziz/tree/master/model"
 
 	"gorm.io/driver/mysql"
 
