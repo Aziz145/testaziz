@@ -1,4 +1,3 @@
-// module github.com/Aziz145/testaziz.git
 module github.com/Aziz145/testaziz/tree/master
 
 go 1.16
